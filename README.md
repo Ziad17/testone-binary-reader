@@ -4,7 +4,7 @@ TestOne Binary Reader is a Windows Forms application that reads binary values fr
 
 The main aim is to design approach that can be changed easily and reconfigured without massive code modification through using a set of custom APIs and Types which facilitate the repeated operations of reading and manipulating byte values
 
-Main Components
+### Main Components
 
 **IAllocation** : an allocation represent a predefined area of bytes in a file or a device, an allocation uses a strategy to resolve its value depending on each allocation implementation
 
